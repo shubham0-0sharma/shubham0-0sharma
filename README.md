@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shubham0-0sharma
-- 👀 I’m interested in Fullstack 
+- 👀 I’m interested in Full Stack development
 - 🌱 I’m currently learning React and Django
 - 💞️ I’m looking to collaborate on React or Django project
 - 📫 How to reach me - shubham00sharma0@gmail.com
